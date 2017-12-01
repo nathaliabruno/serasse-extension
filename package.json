@@ -1,7 +1,8 @@
 {
-  "name": "chrome-extension-webpack",
+  "name": "serasse-tchecos-extension",
   "version": "0.0.1",
-  "description": "A boilerplate to chrome extension with webpack",
+  "description": "A extension that replace Google logotype with SERASSE - a brazilian funny and wrong expression -",
+  "author": "Nathalia Bruno",
   "scripts": {
     "build": "node utils/build.js",
     "start": "node utils/webserver.js"
